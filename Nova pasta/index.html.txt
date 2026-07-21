@@ -1,0 +1,180 @@
+<div id="loading">
+
+    <h1>Borahae 💜</h1>
+
+    <p>Preparando uma surpresa...</p>
+
+</div>
+
+
+<div class="background">
+
+    <div class="stars"></div>
+
+    <div class="aurora"></div>
+
+</div>
+
+
+<header class="hero">
+
+<h3>Para a garota que faz meu coração bater mais forte</h3>
+
+<h1>💜 Borahae 💜</h1>
+
+<p id="typing"></p>
+
+<button onclick="ir('carta')">
+
+Começar Nossa História
+
+</button>
+
+</header>
+
+
+<section id="contador">
+
+<h2>⏳ Estamos juntos há</h2>
+
+<div id="tempo"></div>
+
+</section>
+
+
+<section id="carta">
+
+<h2>💌 Uma carta para você</h2>
+
+<p>
+
+Meu amor...
+
+<br><br>
+
+Desde o dia 28, minha vida ficou diferente.
+
+Você chegou sem fazer barulho,
+
+mas mudou tudo.
+
+<br><br>
+
+Hoje meus melhores momentos sempre têm você.
+
+Meu sorriso sempre tem um motivo.
+
+E esse motivo é você.
+
+<br><br>
+
+Obrigado por ser meu porto seguro.
+
+Obrigado por cada risada.
+
+Obrigado por cada conversa.
+
+Obrigado por existir.
+
+<br><br>
+
+Você merece o mundo inteiro.
+
+E enquanto eu não consigo entregar o mundo,
+
+eu entrego meu coração.
+
+❤️
+
+</p>
+
+</section>
+
+
+<section id="frases">
+
+<h2>✨ Algumas verdades</h2>
+
+<div class="quote"></div>
+
+</section>
+
+
+<section id="galeria">
+
+<h2>📸 Nós</h2>
+
+<div class="gallery">
+
+<img src="COLE_AQUI_SUA_FOTO">
+
+<img src="COLE_AQUI_SUA_FOTO">
+
+<img src="COLE_AQUI_SUA_FOTO">
+
+<img src="COLE_AQUI_SUA_FOTO">
+
+</div>
+
+</section>
+
+
+<section id="bts">
+
+<h2>💜 Borahae</h2>
+
+<p>
+
+Você ama BTS.
+
+E eu amo ver você feliz.
+
+Então toda vez que vejo a cor roxa,
+
+eu lembro de você.
+
+💜
+
+</p>
+
+</section>
+
+
+<section id="final">
+
+<h2>
+
+Em todas as versões da minha vida...
+
+</h2>
+
+<h1>
+
+Eu escolheria você.
+
+❤️
+
+</h1>
+
+<button id="love">
+
+Clique Aqui 💜
+
+</button>
+
+</section>
+
+
+<div id="surpresa">
+
+<h1>
+
+EU TE AMO
+
+INFINITAMENTE
+
+💜
+
+</h1>
+
+</div>
